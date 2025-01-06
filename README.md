@@ -92,7 +92,7 @@ just remember that you can't purchase success!
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
   - [Introduction to Programming](#introduction-to-programming) - ✅ - Py4e Course Complete
-  - [Introduction to Computer Science](#introduction-to-computer-science) - ✅ - Py4e Course Complete
+  - [Introduction to Computer Science](#introduction-to-computer-science) - ✅ - 06/01/2025
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
